@@ -1,0 +1,22 @@
+{
+  "name": "tsvetannikolov123.github.io",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsvetanNikolov123/TsvetanNikolov123.github.io.git"
+  },
+  "author": "Tsvetan Nikolov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TsvetanNikolov123/TsvetanNikolov123.github.io/issues"
+  },
+  "homepage": "https://github.com/TsvetanNikolov123/TsvetanNikolov123.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

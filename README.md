@@ -1,2 +1,2 @@
 # TsvetanNikolov123.github.io
-SoftUniBlog
+Responsive Portfolio
